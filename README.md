@@ -1,2 +1,2 @@
-# Queue_linked_list
+# Queue_linked_List
 Insertion and deletion in queue in single repository
